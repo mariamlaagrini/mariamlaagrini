@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariamlaagrini
 - 👀 I’m interested in data science and IA
-- 🌱 I’m currently learning data analysis, data engineering , nmachine learning, deep learning...
+- 🌱 I’m currently learning data analysis, data engineering , machine learning, deep learning...
 - 💞️ I’m looking to collaborate on project in data science
 - 📫 How to reach me ziro0.1999@gmail.com
 
